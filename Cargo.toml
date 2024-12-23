@@ -40,7 +40,7 @@ features = [
 [dependencies]
 #bevy_pixel_camera = "0.13.0"
 bevy_pixel_camera = { git = "https://github.com/drakmaniso/bevy_pixel_camera", rev = "refs/pull/37/head" }
-bevy_framepace = "0.17.1"
+bevy_framepace = "0.18.0"
 
 console_error_panic_hook = "0.1"
 ordered-float = "4.1.0"
